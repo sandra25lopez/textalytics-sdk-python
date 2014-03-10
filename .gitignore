@@ -1,2 +1,7 @@
 tmp
 nogit
+*.pyc
+clients-python.sublime-project
+clients-python.sublime-workspace
+semantic-publishing/target
+media-analysis/target
