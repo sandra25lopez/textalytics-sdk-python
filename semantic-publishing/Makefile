@@ -1,7 +1,7 @@
-# Makefile for PHP client to Textalytics.com 1.0
+# Makefile for Python client to Textalytics.com 1.0
 #
 # Copyright: Daedalus - Data, Decisions and Language  
-# author: zdepablo
+# author: textalytics
 
 CLIENT_VERSION = 1.0
 API_VERSION = 1.0
